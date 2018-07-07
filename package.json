@@ -1,0 +1,20 @@
+{
+  "name": "eventhub_service",
+  "version": "0.0.1",
+  "description": "Eventhub rest api service using deployd",
+  "keywords": [],
+  "homepage": "",
+  "author": "Nitesh Kumar Gupta",
+  "contributors": [],
+  "dependencies": {
+    "deployd": ">= 0"
+  },
+  "scripts": {
+    "start": "node server"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm":  "1.2.x"
+  },
+  "license": "MIT"
+}
